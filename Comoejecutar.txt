@@ -1,0 +1,2 @@
+# Click izquierdo sobre "app.py"  y  click en "Run python file in Terminal ", si no aparece descargar la extención 
+de python y .run 
